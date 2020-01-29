@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "278473195651",
+    "firebase_url": "https://firstclass-29238.firebaseio.com",
+    "project_id": "firstclass-29238",
+    "storage_bucket": "firstclass-29238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278473195651:android:b01b3c8705b49c434a1bb6",
+        "android_client_info": {
+          "package_name": "com.abia.login_registerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278473195651-64j9fqqdvvhcp4oug4kr6bers45775hg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abia.login_registerapp",
+            "certificate_hash": "fef45370930b5a8f36884e93320f53729b76d69c"
+          }
+        },
+        {
+          "client_id": "278473195651-3hj18nhblll5vvv975lm4a3icpntv2f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1NloHpoVxhBFxW2F00QW0CVsh1bByUUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278473195651-3hj18nhblll5vvv975lm4a3icpntv2f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
